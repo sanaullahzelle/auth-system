@@ -1,0 +1,13 @@
+.App {
+  min-height: 100vh;
+  background-color: #87CEEB; 
+  display: flex;
+  flex-direction: column;
+}
+
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
